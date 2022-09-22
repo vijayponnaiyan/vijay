@@ -1,0 +1,413 @@
+@media only screen and (min-width: 200px) and (max-width: 767px) and (orientation : portrait){
+   span{
+    display: block;
+   }
+ .row ul li{
+      display: block;
+       padding: 5px;
+      text-align: center;
+      margin: 15px 60px;      
+  }
+  .row ul{
+    display: none;
+ }
+.row ul{
+    text-align: center;
+    padding: 8px 55px;
+    position: relative;
+    top:15px;
+}
+ nav{
+    padding: 0px;
+    margin: 0px;
+    margin-top: -10px; 
+ } 
+.row li{
+     width: 100%;
+     text-align: center;
+    border: 1px solid whitesmoke;
+    padding: 10px;
+}
+.logo{
+    padding: 0px 30px;
+     margin-top: 15px;
+    } 
+  .row ul li:hover{
+    background-color: whitesmoke;
+    color:rgb(255 150 5) ;
+ }
+ .row ul a:hover{
+    color:rgb(255 150 5) ;
+ }
+ .banner2 img{
+    width: 32%;
+    height: 170px;
+    border-radius: 249px;
+    position: relative;
+    z-index: -1;
+   }
+   .content2 h1{
+      padding: 0px;
+      width: 19%;
+     align-items: center;
+     display: block;
+   }
+   .content3{
+      display: block;
+   }
+   .flex img{
+      width: 70%;
+      display: block;
+      margin-left: auto;
+      margin-right:auto ;
+   }
+   .flex1{
+      width: 97%;
+      float: left;
+      position: relative;
+      z-index: -2;
+      left: 12px;
+      padding: 13px;
+   }
+
+   .level2 h1{
+      padding: 0px;
+      width: 16%;
+     align-items: center;
+     display: block;
+     }
+     .idea,.idea1,.idea2,.idea3,.idea4,.idea5{
+      width: 85%;  
+      position: relative;
+      z-index: -1;
+      display: block;
+      margin-left: auto;
+      margin-right:auto ;
+     }
+     .level3{
+      margin: 0px;
+     }
+     .projet1 h1{
+      padding: 0px;
+      width: 20%;
+     align-items: center;
+     display: block;
+     }
+     .level1{
+        padding-top: 150px;
+     }
+     .projet1 h1{
+      padding: 0px;
+      width: 25%;
+     align-items: center;
+     display: block;
+     }
+     .Experience1 h1{
+      padding: 0px;
+      width: 34%;
+     align-items: center;
+     display: block;
+     } 
+     .Experience2{
+      display: block;
+     }
+     .Experience2 img{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+     }
+     .Experience2 p{
+         width: 79%;
+         margin-left:auto;
+         margin-right: auto;
+         padding: 5px;
+     }
+     .contact2 h1{
+       padding: 0px;
+       width: 24%;
+      align-items: center;
+       display: block;
+     }
+     .contact3{
+      display: block;
+     }
+     .form1{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 70%;
+     }
+     .button{
+      width: 70%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+     }
+     .address{
+      padding: 10px 50px;
+     }
+  
+     .drive1 p{
+      text-align: center;
+      width: 95%;
+      padding: 10px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .drive1 li{
+      text-align: center;
+      margin: 0px 15px;
+      position: relative;
+      left: 0px;
+    }
+    .drive1{
+      padding: 20px;
+    }   
+     }
+  
+
+
+
+
+@media only screen and (min-width: 550px) and (max-width: 800px){
+    span{
+        display: block;
+       }
+    .row  ul li{
+          display: block;
+           padding: 5px;
+          text-align: center;
+          margin: 15px 60px;      
+      }
+    .row ul{
+        display: none;
+     }
+     .row ul{
+        text-align: center;
+        padding: 8px 55px;
+        position: relative;
+        top:15px;
+    }
+     nav{
+        padding: 0px;
+        margin: 0px;
+        margin-top: -10px;  
+     } 
+     .row li{
+         width: 100%;
+         text-align: center;
+        border: 1px solid whitesmoke;
+        padding: 10px;
+    }
+    .logo{
+        padding: 0px 30px;
+         margin-top: 15px;
+        } 
+        .row ul li:hover{
+        background-color: whitesmoke;
+        color:rgb(255 150 5) ;
+     }
+     .row ul a:hover{
+        color:rgb(255 150 5) ;
+     }
+     .banner2 img{
+        width: 30%;
+        height: 200px;
+        border-radius: 250px;
+        position: relative;
+        z-index: -1;
+       }
+       .content2 h1{
+         padding: 0px;
+         width: 15%;
+        align-items: center;
+        display: block;
+      } 
+      .content3{
+         display: block;
+      }
+      .flex img{
+         width: 70%;
+         display: block;
+         margin-left: auto;
+         margin-right:auto ;
+      }   
+      .flex1{
+         width: 90%;
+        float: left;
+       position: relative;
+       z-index: -2;
+       left: 35px;
+       padding: 15px;
+      }
+      .level2 h1{
+         padding: 0px;
+         width: 13%;
+        align-items: center;
+        display: block;
+        }
+        .idea,.idea1,.idea2,.idea3,.idea4,.idea5{
+         width: 80%;  
+         position: relative;
+         z-index: -1;
+         display: block;
+         margin-left: auto;
+         margin-right:auto ;
+        }
+        .level3{
+         margin: 0px;
+        }
+        .level1{
+         padding-top: 150px;
+      }
+      .projet1 h1{
+         padding: 0px;
+         width: 16%;
+        align-items: center;
+        display: block;
+        }
+        .Experience1 h1{
+         padding: 0px;
+         width: 24%;
+        align-items: center;
+        display: block;
+        } 
+        .Experience2{
+         display: block;
+        }
+        .Experience2 img{
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+        }
+        .Experience2 p{
+            width: 82%;
+            margin-left:auto;
+            margin-right: auto;
+            padding: 5px;
+        }
+        .contact2 h1{
+         padding: 0px;
+         width: 18%;
+        align-items: center;
+         display: block;
+       }
+       .contact3{
+        display: block;
+       }
+       .form1{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+       }
+       .button{
+        width: 70%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+       }
+       .address{
+        padding: 10px 80px;
+       }
+       .drive1 p{
+         text-align: center;
+         width: 95%;
+         padding: 10px;
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+       }
+       .drive1 li{
+         text-align: center;
+         margin: 0px 15px;
+         position: relative;
+         left: 0px;
+       }
+       .drive1{
+         padding: 20px;
+       }
+          
+    }
+
+
+
+
+
+
+
+
+    @media only screen and (min-width: 800px) and (max-width: 1000px){
+    
+      .row  ul li{
+         margin:0px 0px;
+         font-size: 1px;
+      } 
+      .banner2 img{
+         width: 25%;
+         height: 200px;
+         border-radius: 250px;
+         position: relative;
+         z-index: -1;
+        }      
+        .content2 h1{
+         padding: 0px;
+         width: 11%;
+        align-items: center;
+        display: block;
+      }
+      .flex img{
+         margin-left: 60px;
+      }
+      .flex1{
+        width: 62%;
+        padding: 10px;
+      }
+      .level2 h1{
+         padding: 0px;
+         width: 10%;
+        align-items: center;
+        display: block;
+        }
+        .projet1 h1{
+         padding: 0px;
+         width: 15%;
+        align-items: center;
+        display: block;
+        }
+        .Experience1 h1{
+         padding: 0px;
+         width: 20%;
+        align-items: center;
+        display: block;
+        } 
+        .Experience2 img{
+         margin-left: 60px;
+        }
+        .Experience2 p{
+         width: 50%;
+         padding: 12px;
+        margin-left: 0px;
+        }
+        .contact2 h1{
+         padding: 0px;
+         width: 14%;
+        align-items: center;
+         display: block;
+       }
+       .form1{
+         width: 100%;
+         margin-left: 40px;
+       }
+       .button{
+       margin-left: 40px;
+       width: 100%;
+   
+       } 
+       .address{
+        padding: 0px 60px;
+       }
+       
+    }
+   
