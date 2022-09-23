@@ -40,11 +40,11 @@
     color:rgb(255 150 5) ;
  }
  .banner2 img{
-    width: 32%;
-    height: 170px;
-    border-radius: 249px;
-    position: relative;
-    z-index: -1;
+   width: 43%;
+   height: 200px;
+   border-radius: 249px;
+   position: relative;
+   z-index: -1;
    }
    .content2 h1{
       padding: 0px;
